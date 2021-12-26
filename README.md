@@ -1,3 +1,6 @@
+# Marlin 2.0 adjusted for my personal Setup (Ender 3 with MKS Robin E3,BLTouch and some other modifications) and kept on GitHub for easy maintenance.
+# Probably not the right thing for your setup!
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
